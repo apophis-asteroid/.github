@@ -1,6 +1,6 @@
 ## Introduction
 
-This organization has the mission to deflect Apophis asteroid and prevent a collision with Earth.
+This organization has the mission to deflect Apophis asteroid before 2029-04-13 and prevent a collision with Earth.
 
 
 ## Contribution guidelines

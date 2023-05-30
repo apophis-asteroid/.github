@@ -1,3 +1,6 @@
+# Prevent Apophis from colliding with Earth
+
+
 ## Introduction
 
 <!-- Motivation -->
@@ -8,7 +11,7 @@ Although the propability of Apophis collision with Earth is low, the severity is
 <!-- Why builidng this organization -->
 Governments and space institutions have their own agendas, that's why an open and collaborative organization is required to research and develop the technology required to:
 <!-- Problem to solve -->
-- **prevent Apophis collision with Earth.**
+- **prevent Apophis from colliding with Earth.**
 
 <!-- Learning required -->
 To prevent this collision all management and engineering tools are going to be required (Project management, Design for six sigma, I.T. Architecture, etc).
@@ -25,7 +28,9 @@ This organization has the mission to deflect Apophis asteroid before 2029-04-13 
 ## Contribution guidelines
 
 
+
 ## Resources
+
 [1] NASA Analysis: Earth Is Safe From Asteroid Apophis for 100-Plus Years
 Ian J. O’Neill, Joshua Handal
 https://www.nasa.gov/feature/jpl/nasa-analysis-earth-is-safe-from-asteroid-apophis-for-100-plus-years

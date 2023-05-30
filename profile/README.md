@@ -17,7 +17,7 @@ Governments and space institutions have their own agendas, that's why an open an
 To prevent this collision all management and engineering tools are going to be required (Project management, Design for six sigma, I.T. Architecture, etc).
 
 <!-- What makes your organization stand out? -->
-This gives the opportunity to everyone that has knoledge in these areas to participate and collaborate to save the Earth.
+This gives the opportunity to everyone that has knowledge in these areas to participate and collaborate to save the Earth.
 
 
 ## Mission
@@ -25,8 +25,27 @@ This gives the opportunity to everyone that has knoledge in these areas to parti
 This organization has the mission to deflect Apophis asteroid before 2029-04-13 and prevent a collision with Earth.
 
 
-## Contribution guidelines
+## Code of conduct
 
+We welcome contributions from everyone who shares our goals and wants to contribute in a healthy and constructive manner within our community. Openness, collaboration and participation are core aspects of our work.
+
+#### Expected Behavior
+
+- Be respectful
+- Be direct but professional
+- Be inclusive
+- Understand different perspectives
+- Appreciate and accommodate our similarities and differences
+- Lead by example
+
+#### Behavior That Will Not Be Tolerated
+
+- Violence and threats of violence
+- Personal attacks
+- Derogatory language
+- Unwelcome sexual attention or physical contact
+- Disruptive behavior
+- Influencing unacceptable behavior
 
 
 ## Resources
